@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-id="1936" tvg-name="TVBS 歡樂台" group-title="台湾",TVBS 歡樂台
 https://live.catvod.com/?id=L2xyL2RMUU9BUDEyak5TV1Fjbkc2VXM0VkNxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWZhNDdjNDY1JmNuPTFlMGQ1ODRjJmNwPWNhY2U3MGZkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=7ad7c9ff267972ce70e40bb27a5e3aa2
 #EXTINF:-1 tvg-id="735" tvg-name="TVBS HD" group-title="台湾",TVBS HD
