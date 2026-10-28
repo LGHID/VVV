@@ -1,34 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="接口信息",更新地址https://github.com/Jsnzkpg/Jsnzkpg
 #EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/1abc690f2c198bc4e2debd3013928c1e.png" group-title="赛事回放",10-25 12:00 日职女甲 伊贺女忍者女足 vs 日体大女足 (1-0) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3de163945001834825610062255/playlist_eof.m3u8?t=6ade0627&us=b52a515bc6&sign=994e47345e66c6ecf2c8e4c243ce20f7
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/82a4919b33c4cd1184a36f6d48e33b91.png" group-title="赛事回放",10-25 12:00 日职女甲 播磨阿尔比恩女足 vs 横滨海鸥女足 (1-1) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b270dbec5001834825469531887/playlist_eof.m3u8?t=6ade06c3&us=e3bc24177c&sign=07614895f0630fc645f5567767622c31
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a0c772584c00e1b6efd1c421344cd005.png" group-title="赛事回放",10-25 12:00 澳超 悉尼FC vs 阿德莱德联 (2-1) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8d0ec1895001834825567548805/playlist_eof.m3u8?t=6ade0756&us=72b023ad12&sign=89f92e62856b1015da13d08d991d619c
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a0c772584c00e1b6efd1c421344cd005.png" group-title="赛事回放",10-25 12:00 澳超 悉尼FC vs 阿德莱德联 (2-1) - 超清外语1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/659e9d4c5001834825468558609/playlist_eof.m3u8?t=6ade0756&us=72b023ad12&sign=56c60be44392b433f13857fa1c6b8468
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/7654a95374767f93f6bec6a3d4819f76.png" group-title="赛事回放",10-25 11:10 墨西超 美洲狮 vs 老虎大学 (1-1) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e5406b4d5001834825605876956/playlist_eof.m3u8?t=6ade08ee&us=6edeb64650&sign=984202d7a4815b550c8440f5fcbacad9
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/7654a95374767f93f6bec6a3d4819f76.png" group-title="赛事回放",10-25 11:10 墨西超 美洲狮 vs 老虎大学 (1-1) - 超清外语1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/cb4e041e5001834825466505605/playlist_eof.m3u8?t=6ade08ee&us=6edeb64650&sign=ec75b0b37b56dca56bdd519d972b6783
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/4431a6b60ebf9369297717921a290687.png" group-title="赛事回放",10-25 10:40 美职业 圣地亚哥FC vs 西雅图海湾人 (2-2) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b5ebec1f5001834825561153089/playlist_eof.m3u8?t=6ade0d9d&us=8aaf199f74&sign=b1bac970ddbe1fe8b4f27f1d664059d2
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/5dcc5306778fc1089f808833ac7fc477.png" group-title="赛事回放",10-25 10:40 美职业 波特兰伐木工 vs 夏洛特FC (3-2) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3a8c41565001834825603118334/playlist_eof.m3u8?t=6ade0e2b&us=44d8aa3f70&sign=7113f6573d3335bae0792dd3b5367def
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/5dcc5306778fc1089f808833ac7fc477.png" group-title="赛事回放",10-25 10:40 美职业 波特兰伐木工 vs 夏洛特FC (3-2) - 超清外语1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/029d53fc5001834825562112684/playlist_eof.m3u8?t=6ade0e2b&us=44d8aa3f70&sign=29575476521941c624b85b889ab2c968
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png" group-title="赛事回放",10-25 10:20 美乙 萨克拉门托 vs 奥克兰根 (3-2) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/edd818635001834825558556422/playlist_eof.m3u8?t=6ade0d80&us=92d0fe1d05&sign=513b6843d43df08d34de9ddb7d0c0e17
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" group-title="赛事回放",10-25 10:00 NBA 太阳 vs 勇士 (131-122) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f30edfae5001834825599885423/playlist_eof.m3u8?t=6ade10fe&us=8c946b84df&sign=65262a9e878e5bdd14aaee6ff193c624
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" group-title="赛事回放",10-25 10:00 NBA 太阳 vs 勇士 (131-122) - 超清中文1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e23fd1615001834825558065263/playlist_eof.m3u8?t=6ade10fe&us=8c946b84df&sign=fc3b8c00b970b8e32c8c954a127361c2
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" group-title="赛事回放",10-25 10:00 NBA 太阳 vs 勇士 (131-122) - 超清外语1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2f4dd0685001834825559078391/playlist_eof.m3u8?t=6ade10fe&us=8c946b84df&sign=1687815ed4f5facd0172335cd8481192
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a507b1509e1f640108395b0580b46976.png" group-title="赛事回放",10-25 10:00 哥斯甲 埃雷迪亚诺 vs 肯塔吉内斯 (3-1) - 高清回放1
-https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c84ff8ff5001834825459605117/playlist_eof.m3u8?t=6ade064d&us=ce9e079fb4&sign=c9ce9d35623c79113bb342173d23cdc7
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🇨🇳央卫视直播[1]",CCTV1
 http://222.223.41.27:8888/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="🇨🇳央卫视直播[1]",CCTV2
